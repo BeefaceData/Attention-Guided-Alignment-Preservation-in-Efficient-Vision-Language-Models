@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision
+transformers>=4.36
+pillow
+datasets
+matplotlib
+seaborn
+numpy
