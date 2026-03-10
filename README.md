@@ -1,7 +1,7 @@
 # Attention-Guided Alignment Preservation in Efficient VLMs (AGAP)
 ## CMU 18-662 PRINCIPLES of Deep Learning – Mid-Term Project
 
-**Authors:** Boniface Godwin (`bgodwin@andrew.cmu.edu`), Jean Gabriel Mpuhwezimana (`jmpuhwez@andrew.cmu.edu`) 
+**Authors:** Boniface Godwin (`bgodwin@andrew.cmu.edu`), Jean Gabriel Mpuhwezimana (`jmpuhwez@andrew.cmu.edu`), Mohamed Awud (`mawud@andrew.cmu.edu`} 
 
 ---
 
