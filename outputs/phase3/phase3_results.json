@@ -1,0 +1,28 @@
+{
+  "latency": {
+    "baseline_ms": 955.0723748281598,
+    "pruned_ms": 953.9265478029847,
+    "meets_100ms_target": false
+  },
+  "memory_mb": {
+    "baseline": 27365.3076171875,
+    "pruned": 13891.1728515625
+  },
+  "r_precision": {
+    "baseline": 1.0,
+    "pruned": 1.0,
+    "retention_pct": 100.0
+  },
+  "safety_detection": {
+    "baseline": {
+      "person": 1.0,
+      "vehicle": 1.0,
+      "stop sign": 1.0
+    },
+    "pruned": {
+      "person": 1.0,
+      "vehicle": 1.0,
+      "stop sign": 1.0
+    }
+  }
+}

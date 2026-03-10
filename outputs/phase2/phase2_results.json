@@ -1,0 +1,19 @@
+{
+  "prune_ratio": 0.4,
+  "baseline": {
+    "params": 7063427072,
+    "latency_ms": 457.01759196817875
+  },
+  "alignment_pruned": {
+    "params": 7063427072,
+    "latency_ms": 1369.2193154245615,
+    "o_proj_sparsity_pct": 33.691524527966976,
+    "heads_removed": 409
+  },
+  "finetune_loss_curve": [
+    16.130605697631836
+  ],
+  "finetuned": {
+    "latency_ms": 1513.0956448614597
+  }
+}
